@@ -1,8 +1,7 @@
 # System-Programming-SICXE-Project
-========================================
 Sogang Univ. System Programming (CSE4100) - SIC/XE Machine Project
 
-[Project 1 - Shell Prompt & Opcode Table & Memory Manager](https://github.com/taeguk/System-Programming-SICXE-Project/tree/project-1)
+[Project 1 - Shell Prompt & Opcode Table & Memory Manager]
 -----------------
 - Shell Prompt
   - Command History Management
@@ -11,13 +10,13 @@ Sogang Univ. System Programming (CSE4100) - SIC/XE Machine Project
 - SIC/XE Memory Manager (edit, fill, dump)
 - Generic Linked List
  
- [Project 2 - Assembler](https://github.com/taeguk/System-Programming-SICXE-Project/tree/project-2)
+ [Project 2 - Assembler]
 ----------------
 - Assemble SIC/XE assembly code (.asm). 
 - As a result, generate listing file (.lst) and object file (.obj).
 - Not all assembly features are supported.
 
-[Project 3 - Linking Loader & Runner & Debugger](https://github.com/taeguk/System-Programming-SICXE-Project/tree/project-3)
+[Project 3 - Linking Loader & Runner & Debugger]
 ---------------------
 - Linking Loader
   - Link several object files and load the program into specific memory address.
